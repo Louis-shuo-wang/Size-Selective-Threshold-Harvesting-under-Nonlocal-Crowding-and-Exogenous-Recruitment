@@ -1,0 +1,1 @@
+# Size-Selective-Threshold-Harvesting-under-Nonlocal-Crowding-and-Exogenous-Recruitment
